@@ -4,7 +4,7 @@ let productos = [
 
     {
         id: 1,
-        nombre: 'Botín Silver',
+        nombre: 'Silver',
         img: 'images/botines/botines1.jpg',
         categoria: {
             titulo: 'Botines',
@@ -16,7 +16,7 @@ let productos = [
     },
     {
         id: 2,
-        nombre: 'Botín Nairobi Negro',
+        nombre: 'Nairobi Negro',
         img: 'images/botines/botines2.jpg',
         categoria: {
             titulo: 'Botines',
@@ -28,7 +28,7 @@ let productos = [
     },
     {
         id: 3,
-        nombre: 'Botines Cloe',
+        nombre: 'Cloe Negro',
         img: 'images/botines/botines3.jpg',
         categoria: {
             titulo: 'Botines',
@@ -40,7 +40,7 @@ let productos = [
     },
     {
         id: 4,
-        nombre: 'Botines Cloe',
+        nombre: 'Cloe Café',
         img: 'images/botines/botines4.jpg',
         categoria: {
             titulo: 'Botines',
@@ -52,7 +52,7 @@ let productos = [
     },
     {
         id: 5,
-        nombre: 'Botín Hanzell Verde Musgo',
+        nombre: 'Hanzell Verde Musgo',
         img: 'images/botines/botines5.jpg',
         categoria: {
             titulo: 'Botines',
@@ -64,7 +64,7 @@ let productos = [
     },
     {
         id: 6,
-        nombre: 'Botín Hanzell Arena',
+        nombre: 'Hanzell Arena',
         img: 'images/botines/botines6.jpg',
         categoria: {
             titulo: 'Botines',
@@ -76,7 +76,7 @@ let productos = [
     },
     {
         id: 7,
-        nombre: 'Hanzell en Cuero Liso',
+        nombre: 'Cuero Liso',
         img: 'images/botines/botines7.jpg',
         categoria: {
             titulo: 'Botines',
@@ -91,7 +91,7 @@ let productos = [
 
     {
         id: 8,
-        nombre: 'Mocasine Flaviana en Cuero Liso',
+        nombre: 'Flaviana en Cuero Liso',
         img: 'images/mocasines/mocasines1.jpg',
         categoria: {
             titulo: 'Mocasines',
@@ -115,7 +115,7 @@ let productos = [
     },
     {
         id: 10,
-        nombre: 'Mocasine Flaviana Tabaco',
+        nombre: 'Flaviana Tabaco',
         img: 'images/mocasines/mocasines3.jpg',
         categoria: {
             titulo: 'Mocasines',
@@ -127,7 +127,7 @@ let productos = [
     },
     {
         id: 11,
-        nombre: 'Mocasine Flaviana Azul Acero',
+        nombre: 'Flaviana Azul Acero',
         img: 'images/mocasines/mocasines4.jpg',
           categoria: {
             titulo: 'Mocasines',
@@ -139,7 +139,7 @@ let productos = [
     },
     {
         id: 12,
-        nombre: 'Mocasine Flaviana Arena',
+        nombre: 'Flaviana Arena',
         img: 'images/mocasines/mocasines5.jpg',
           categoria: {
             titulo: 'Mocasines',
@@ -151,7 +151,7 @@ let productos = [
     },
     {
         id: 13,
-        nombre: 'Mocasine Martina Negro',
+        nombre: 'Martina Negro',
         img: 'images/mocasines/mocasines6.jpg',
           categoria: {
             titulo: 'Mocasines',
@@ -163,7 +163,7 @@ let productos = [
     },
     {
         id: 14,
-        nombre: 'Mocasine Martina Verde',
+        nombre: 'Martina Verde',
         img: 'images/mocasines/mocasines7.jpg',
           categoria: {
             titulo: 'Mocasines',
@@ -175,7 +175,7 @@ let productos = [
     },
     {
         id: 15,
-        nombre: 'Mocasine Martina Caramelo',
+        nombre: 'Martina Caramelo',
         img: 'images/mocasines/mocasines8.jpg',
           categoria: {
             titulo: 'Mocasines',
@@ -187,7 +187,7 @@ let productos = [
     },
     {
         id: 16,
-        nombre: 'Mocasine Martina Verde Musgo',
+        nombre: 'Martina Verde Musgo',
         img: 'images/mocasines/mocasines9.jfif',
           categoria: {
             titulo: 'Mocasines',
@@ -202,7 +202,7 @@ let productos = [
 
     {
         id: 17,
-        nombre: 'Jane Negro/ Animal Print',
+        nombre: 'Jane Negro/Animal Print',
         img: 'images/derbys/derby1.jpg',
         categoria: {
             titulo: 'Derbys',
@@ -214,7 +214,7 @@ let productos = [
     },
     {
         id: 18,
-        nombre: 'Derby Leopard Negro',
+        nombre: 'Leopard Negro',
         img: 'images/derbys/derby2.jpg',
         categoria: {
             titulo: 'Derbys',
@@ -226,7 +226,7 @@ let productos = [
     },
     {
         id: 19,
-        nombre: 'Derby Leopard Beige',
+        nombre: 'Leopard Beige',
         img: 'images/derbys/derby3.jpg',
         categoria: {
             titulo: 'Derbys',
@@ -238,7 +238,7 @@ let productos = [
     },
     {
         id: 20,
-        nombre: 'Derby Punta de Charol',
+        nombre: 'Punta de Charol',
         img: 'images/derbys/derby4.jpg',
         categoria: {
             titulo: 'Derbys',
@@ -265,7 +265,7 @@ let productos = [
     },
     {
         id: 22,
-        nombre: 'Mules Celine Negro',
+        nombre: 'Celine Negro',
         img: 'images/mules/mules2.jpg',
         categoria: {
             titulo: 'Mules',
@@ -277,7 +277,7 @@ let productos = [
     },
     {
         id: 23,
-        nombre: 'Mules Celine Camell',
+        nombre: 'Celine Camell',
         img: 'images/mules/mules3.jfif',
         categoria: {
             titulo: 'Mules',
@@ -289,7 +289,7 @@ let productos = [
     },
     {
         id: 24,
-        nombre: 'Mules Capitona Pitón',
+        nombre: 'Capitona Pitón',
         img: 'images/mules/mules4.jpg',
         categoria: {
             titulo: 'Mules',
@@ -301,7 +301,7 @@ let productos = [
     },
     {
         id: 25,
-        nombre: 'Mules Print Leopard',
+        nombre: 'Print Leopard',
         img: 'images/mules/mules5.jpg',
         categoria: {
             titulo: 'Mules',
@@ -313,7 +313,7 @@ let productos = [
     },
     {
         id: 26,
-        nombre: 'Mules Print Rayas',
+        nombre: 'Print Rayas',
         img: 'images/mules/mules6.jpg',
         categoria: {
             titulo: 'Mules',
@@ -325,7 +325,7 @@ let productos = [
     },
     {
         id: 27,
-        nombre: 'Mules Colors',
+        nombre: 'Colors',
         img: 'images/mules/mules7.jpg',
         categoria: {
             titulo: 'Mules',
@@ -337,7 +337,7 @@ let productos = [
     },
     {
         id: 28,
-        nombre: 'Mules Labrado',
+        nombre: 'Labrado',
         img: 'images/mules/mules8.jpg',
         categoria: {
             titulo: 'Mules',
@@ -349,7 +349,7 @@ let productos = [
     },
     {
         id: 29,
-        nombre: 'Mules Caramelo',
+        nombre: 'Caramelo',
         img: 'images/mules/mules9.jpg',
         categoria: {
             titulo: 'Mules',
@@ -361,7 +361,7 @@ let productos = [
     },
     {
         id: 30,
-        nombre: 'Mules Dandy Negro',
+        nombre: 'Dandy Negro',
         img: 'images/mules/mules10.jpg',
         categoria: {
             titulo: 'Mules',
@@ -376,7 +376,7 @@ let productos = [
 
     {
         id: 31,
-        nombre: 'Sandalia Candace Negro',
+        nombre: 'Candace Negro',
         img: 'images/sandalias/sandalias1.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -388,7 +388,7 @@ let productos = [
     },
     {
         id: 32,
-        nombre: 'Sandalia Candace Café',
+        nombre: 'Candace Café',
         img: 'images/sandalias/sandalias2.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -400,7 +400,7 @@ let productos = [
     },
     {
         id: 33,
-        nombre: 'Sandalia Candace Beige',
+        nombre: 'Candace Beige',
         img: 'images/sandalias/sandalias3.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -412,7 +412,7 @@ let productos = [
     },
     {
         id: 34,
-        nombre: 'Sandalia Luisa Animal Print/Negro',
+        nombre: 'Luisa Animal Print/Negro',
         img: 'images/sandalias/sandalias4.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -424,7 +424,7 @@ let productos = [
     },
     {
         id: 35,
-        nombre: 'Sandalia Luisa Animal Print/Beige',
+        nombre: 'Luisa Animal Print/Beige',
         img: 'images/sandalias/sandalias5.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -436,7 +436,7 @@ let productos = [
     },
     {
         id: 36,
-        nombre: 'Sandalia Luisa Beige',
+        nombre: 'Luisa Beige',
         img: 'images/sandalias/sandalias6.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -448,7 +448,7 @@ let productos = [
     },
     {
         id: 37,
-        nombre: 'Sandalia Luisa Negro',
+        nombre: 'Luisa Negro',
         img: 'images/sandalias/sandalias7.jpg',
         categoria: {
             titulo: 'Sandalias',
@@ -463,7 +463,7 @@ let productos = [
 
     {
         id: 38,
-        nombre: 'Zapato Megan Negro Taco',
+        nombre: 'Megan Negro',
         img: 'images/tacos/taco1.jpg',
         categoria: {
             titulo: 'Zapatos de taco',
@@ -475,7 +475,7 @@ let productos = [
     },
     {
         id: 39,
-        nombre: 'Zapato Megan Uva Taco 3cm',
+        nombre: 'Megan Uva ',
         img: 'images/tacos/taco2.jpg',
         categoria: {
             titulo: 'Zapatos de taco',
@@ -503,7 +503,7 @@ let productos = [
 let carrito = [];
 
 const containerTienda = document.querySelector('.productos-tienda');
-const opcion = document.querySelectorAll('.nav-items');
+const opcion = document.querySelectorAll('.opcion');
 
 
 function agregarProductos(productosElegidos) {
@@ -519,6 +519,7 @@ function agregarProductos(productosElegidos) {
     div.innerHTML = `
         <img class= 'item-img' src="${producto.img}"/>
         <div class='item-info'>
+            <p>${producto.categoria.titulo}</p>
             <h3 class='item-title'>${producto.nombre}</h3>
             <p class='item-price'>$${producto.precio}</p>
         </div>
@@ -539,6 +540,9 @@ opcion.forEach(op => {
 
     })
 })
+
+
+
 
 
 
